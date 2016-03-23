@@ -3,7 +3,7 @@ desc = sihnon-common Repository
 enabled = true
 
 # Sabayon Packages Continent-based Load Balancer
-repo = http://dl.sabayon.org/community/sihnon-common#bz2
+repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/community/sihnon-common#bz2
 pkg = http://dl.sabayon.org/community/sihnon-common
 
 # id-REPO, Indonesian FOSS Repository, 100Mbit/sec

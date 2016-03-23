@@ -3,7 +3,7 @@ desc = community Repository
 enabled = true
 
 # Sabayon Packages Continent-based Load Balancer
-repo = http://dl.sabayon.org/community/community#bz2
+repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/community/community#bz2
 pkg = http://dl.sabayon.org/community/community
 
 # id-REPO, Indonesian FOSS Repository, 100Mbit/sec
