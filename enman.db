@@ -6,5 +6,7 @@ gaming-live:https://github.com/Sabayon/enman-db/raw/master/repositories/gaming-l
 mudler:https://github.com/Sabayon/enman-db/raw/master/repositories/mudler
 devel:https://github.com/Sabayon/enman-db/raw/master/repositories/devel
 pentesting:https://github.com/Sabayon/enman-db/raw/master/repositories/pentesting
+gnome-unstable:https://github.com/Sabayon/enman-db/raw/master/repositories/gnome-unstable
+kde-unstable:https://github.com/Sabayon/enman-db/raw/master/repositories/kde-unstable
 tlp:http://www.yugoloth.de/dywi/tlp-sabayon/tlp-repo.conf
 
