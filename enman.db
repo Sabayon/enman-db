@@ -12,3 +12,4 @@ kde-unstable:https://github.com/Sabayon/enman-db/raw/master/repositories/kde-uns
 tlp:http://www.yugoloth.de/dywi/tlp-sabayon/tlp-repo.conf
 haskell:https://github.com/Sabayon/enman-db/raw/master/repositories/haskell
 elementary:https://github.com/Sabayon/enman-db/raw/master/repositories/elementary
+ruby:https://github.com/Sabayon/enman-db/raw/master/repositories/ruby
