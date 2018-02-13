@@ -1,4 +1,4 @@
-[community]
+[dotnet]
 desc = Dotnet repository
 enabled = true
 
