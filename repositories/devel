@@ -3,80 +3,80 @@ desc = devel channel repository
 enabled = true
 
 # Sabayon Packages Continent-based Load Balancer
-repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/community/devel#bz2
-pkg = http://dl.sabayon.org/community/devel
+repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/sbi/devel/devel#bz2
+pkg = http://dl.sabayon.org/sbi/devel/devel
 
 # id-REPO, Indonesian FOSS Repository, 100Mbit/sec
-pkg = http://bali.idrepo.or.id/sabayon/community/devel
-pkg = http://madura.idrepo.or.id/sabayon/community/devel
-pkg = http://sumbawa.idrepo.or.id/sabayon/community/devel
+pkg = http://bali.idrepo.or.id/sabayon/sbi/devel/devel
+pkg = http://madura.idrepo.or.id/sabayon/sbi/devel/devel
+pkg = http://sumbawa.idrepo.or.id/sabayon/sbi/devel/devel
 
 # RIKEN Nishina Center for research support, Japan, 1Gbit/sec
-pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/community/devel
+pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/sbi/devel/devel
 
 # Yamagata University, Japan, 1Gbit/sec
-pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/community/devel
+pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/sbi/devel/devel
 
 # KDDI R&D Laboratories Inc., Japan, 200Mbit/sec
-pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/community/devel
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/devel/devel
 
 # Silicon Hill (http://www.sh.cvut.cz), 1Gbit/sec, Czech Republic
-pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/community/devel
+pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/sbi/devel/devel
 
 # UPC Česká republika, a.s., 2Gbit/sec, Czech Republic
-pkg = http://debian.mirror.dkm.cz/sabayon/community/devel
+pkg = http://debian.mirror.dkm.cz/sabayon/sbi/devel/devel
 
 # KLID, Denmark, 1Gbit/sec
-pkg = ftp://ftp.klid.dk/sabayonlinux/community/devel
+pkg = ftp://ftp.klid.dk/sabayonlinux/sbi/devel/devel
 
 # Free Software Network, Hungary, 1Gbit/sec
-pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/community/devel
-# pkg = rsync://ftp.fsn.hu/linux/sabayon/community/devel
-# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/community/devel
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/devel/devel
+# pkg = rsync://ftp.fsn.hu/linux/sabayon/sbi/devel/devel
+# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/devel/devel
 
 # University of Crete, 1Gbit/sec, Greece
-pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/community/devel
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/sbi/devel/devel
 
 # Rede das Novas Licenciaturas - Instituto Superior Técnico, 1Gbit/sec, Portugal
-pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/community/devel
-# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/community/devel
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/devel/devel
+# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/devel/devel
 
 # Freelydifferent.com, France
-pkg = http://mirror.freelydifferent.com/sabayon/community/devel
+pkg = http://mirror.freelydifferent.com/sabayon/sbi/devel/devel
 
 # NLUUG, Holland
-pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/community/devel
-# pkg = rsync://ftp.nluug.nl/sabayonlinux/community/devel
+pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux//sbi/devel/devel
+# pkg = rsync://ftp.nluug.nl/sabayonlinux/sbi/devel/devel
 
 # Surfnet, Holland
-pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/community/devel
-# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/community/devel
+pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/sbi/devel/devel
+# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/sbi/devel/devel
 
 # Internode, Australia
-pkg = http://mirror.internode.on.net/pub/sabayon/community/devel
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/devel/devel
 
 # Instituto Federal de Educação, Ciência e Tecnologia do Cearà, Brazil
-pkg = http://www2.itti.ifce.edu.br/sabayon/community/devel
+pkg = http://www2.itti.ifce.edu.br/sabayon/sbi/devel/devel
 
 # Yandex Linux Mirror, Russian Federation
-# pkg = ftp://mirror.yandex.ru/sabayon/community/devel
-# pkg = rsync://mirror.yandex.ru/sabayon/community/devel
-pkg = http://mirror.yandex.ru/sabayon/community/devel
+# pkg = ftp://mirror.yandex.ru/sabayon/sbi/devel/devel
+# pkg = rsync://mirror.yandex.ru/sabayon/sbi/devel/devel
+pkg = http://mirror.yandex.ru/sabayon/sbi/devel/devel
 
 # Universidade Federal do Parana', Brazil
-# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/community/devel
-# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/community/devel
-pkg = http://sabayon.c3sl.ufpr.br/community/devel
+# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/sbi/devel/devel
+# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/sbi/devel/devel
+pkg = http://sabayon.c3sl.ufpr.br/sbi/devel/devel
 
 # University of Maryland LUG, 1Gbit/sec, United States
-# pkg = rsync://mirror.umd.edu/sabayonlinux/community/devel
-pkg = http://mirror.umd.edu/sabayonlinux/community/devel
+# pkg = rsync://mirror.umd.edu/sabayonlinux/sbi/devel/devel
+pkg = http://mirror.umd.edu/sabayonlinux/sbi/devel/devel
 
 # Open Source Institute, Clarkson University, 300Mbit/sec, United States
-pkg = http://mirror.clarkson.edu/sabayon/community/devel
+pkg = http://mirror.clarkson.edu/sabayon/sbi/devel/devel
 
 # Cross-LFS Project mirror, United States
-pkg = http://cross-lfs.sabayonlinux.org/community/devel
+pkg = http://cross-lfs.sabayonlinux.org/sbi/devel/devel
 
 # GARR Network mirror, Italy
-pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/community/devel
+pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/sbi/devel/devel
