@@ -1,0 +1,82 @@
+[rust]
+desc = rust Repository
+enabled = true
+
+# Sabayon Packages Continent-based Load Balancer
+repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/sbi/rust/rust#bz2
+pkg = http://dl.sabayon.org/sbi/rust/rust
+
+# id-REPO, Indonesian FOSS Repository, 100Mbit/sec
+pkg = http://bali.idrepo.or.id/sabayon/sbi/rust/rust
+pkg = http://madura.idrepo.or.id/sabayon/sbi/rust/rust
+pkg = http://sumbawa.idrepo.or.id/sabayon/sbi/rust/rust
+
+# RIKEN Nishina Center for research support, Japan, 1Gbit/sec
+pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/sbi/rust/rust
+
+# Yamagata University, Japan, 1Gbit/sec
+pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/sbi/rust/rust
+
+# KDDI R&D Laboratories Inc., Japan, 200Mbit/sec
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/rust/rust
+
+# Silicon Hill (http://www.sh.cvut.cz), 1Gbit/sec, Czech Republic
+pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/sbi/rust/rust
+
+# UPC Česká republika, a.s., 2Gbit/sec, Czech Republic
+pkg = http://debian.mirror.dkm.cz/sabayon/sbi/rust/rust
+
+# KLID, Denmark, 1Gbit/sec
+pkg = ftp://ftp.klid.dk/sabayonlinux/sbi/rust/rust
+
+# Free Software Network, Hungary, 1Gbit/sec
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/rust/rust
+# pkg = rsync://ftp.fsn.hu/linux/sabayon/sbi/rust/rust
+# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/rust/rust
+
+# University of Crete, 1Gbit/sec, Greece
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/sbi/rust/rust
+
+# Rede das Novas Licenciaturas - Instituto Superior Técnico, 1Gbit/sec, Portugal
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/rust/rust
+# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/rust/rust
+
+# Freelydifferent.com, France
+pkg = http://mirror.freelydifferent.com/sabayon/sbi/rust/rust
+
+# NLUUG, Holland
+pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/rust/rust
+# pkg = rsync://ftp.nluug.nl/sabayonlinux/sbi/rust/rust
+
+# Surfnet, Holland
+pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/sbi/rust/rust
+# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/sbi/rust/rust
+
+# Internode, Australia
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/rust/rust
+
+# Instituto Federal de Educação, Ciência e Tecnologia do Cearà, Brazil
+pkg = http://www2.itti.ifce.edu.br/sabayon/sbi/rust/rust
+
+# Yandex Linux Mirror, Russian Federation
+# pkg = ftp://mirror.yandex.ru/sabayon/sbi/rust/rust
+# pkg = rsync://mirror.yandex.ru/sabayon/sbi/rust/rust
+pkg = http://mirror.yandex.ru/sabayon/sbi/rust/rust
+
+# Universidade Federal do Parana', Brazil
+# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/sbi/rust/rust
+# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/sbi/rust/rust
+pkg = http://sabayon.c3sl.ufpr.br/sbi/rust/rust
+
+# University of Maryland LUG, 1Gbit/sec, United States
+# pkg = rsync://mirror.umd.edu/sabayonlinux/sbi/rust/rust
+pkg = http://mirror.umd.edu/sabayonlinux/sbi/rust/rust
+
+# Open Source Institute, Clarkson University, 300Mbit/sec, United States
+pkg = http://mirror.clarkson.edu/sabayon/sbi/rust/rust
+
+# Cross-LFS Project mirror, United States
+pkg = http://cross-lfs.sabayonlinux.org/sbi/rust/rust
+
+# GARR Network mirror, Italy
+pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/sbi/rust/rust
