@@ -14,3 +14,4 @@ haskell:https://github.com/Sabayon/enman-db/raw/master/repositories/haskell
 elementary:https://github.com/Sabayon/enman-db/raw/master/repositories/elementary
 ruby:https://github.com/Sabayon/enman-db/raw/master/repositories/ruby
 dotnet:https://github.com/Sabayon/enman-db/raw/master/repositories/dotnet
+rust:https://github.com/Sabayon/enman-db/raw/master/repositories/rust
