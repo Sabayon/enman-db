@@ -15,3 +15,4 @@ elementary:https://github.com/Sabayon/enman-db/raw/master/repositories/elementar
 ruby:https://github.com/Sabayon/enman-db/raw/master/repositories/ruby
 dotnet:https://github.com/Sabayon/enman-db/raw/master/repositories/dotnet
 rust:https://github.com/Sabayon/enman-db/raw/master/repositories/rust
+zfs:https://github.com/Sabayon/enman-db/raw/master/repositories/zfs
