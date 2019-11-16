@@ -1,82 +1,28 @@
+
+# Repository configuration file automatically generated
+# by sabayon-repo-generator script.
+
 [kde-unstable]
-desc = kde-unstable Repository
-enabled = true
+desc = kde-unstable SCR Repository
+enabled =  true
+repo = http://best.sabayon.org//sbi/kde-unstable/kde-unstable#bz2
 
-# Sabayon Packages Continent-based Load Balancer
-repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/community/kde-unstable#bz2
-pkg = http://dl.sabayon.org/community/kde-unstable
 
-# id-REPO, Indonesian FOSS Repository, 100Mbit/sec
-pkg = http://bali.idrepo.or.id/sabayon/community/kde-unstable
-pkg = http://madura.idrepo.or.id/sabayon/community/kde-unstable
-pkg = http://sumbawa.idrepo.or.id/sabayon/community/kde-unstable
-
-# RIKEN Nishina Center for research support, Japan, 1Gbit/sec
-pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/community/kde-unstable
-
-# Yamagata University, Japan, 1Gbit/sec
-pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/community/kde-unstable
-
-# KDDI R&D Laboratories Inc., Japan, 200Mbit/sec
-pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/community/kde-unstable
-
-# Silicon Hill (http://www.sh.cvut.cz), 1Gbit/sec, Czech Republic
-pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/community/kde-unstable
-
-# UPC Česká republika, a.s., 2Gbit/sec, Czech Republic
-pkg = http://debian.mirror.dkm.cz/sabayon/community/kde-unstable
-
-# KLID, Denmark, 1Gbit/sec
-pkg = ftp://ftp.klid.dk/sabayonlinux/community/kde-unstable
-
-# Free Software Network, Hungary, 1Gbit/sec
-pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/community/kde-unstable
-# pkg = rsync://ftp.fsn.hu/linux/sabayon/community/kde-unstable
-# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/community/kde-unstable
-
-# University of Crete, 1Gbit/sec, Greece
-pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/community/kde-unstable
-
-# Rede das Novas Licenciaturas - Instituto Superior Técnico, 1Gbit/sec, Portugal
-pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/community/kde-unstable
-# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/community/kde-unstable
-
-# Freelydifferent.com, France
-pkg = http://mirror.freelydifferent.com/sabayon/community/kde-unstable
-
-# NLUUG, Holland
-pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/community/kde-unstable
-# pkg = rsync://ftp.nluug.nl/sabayonlinux/community/kde-unstable
-
-# Surfnet, Holland
-pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/community/kde-unstable
-# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/community/kde-unstable
-
-# Internode, Australia
-pkg = http://mirror.internode.on.net/pub/sabayon/community/kde-unstable
-
-# Instituto Federal de Educação, Ciência e Tecnologia do Cearà, Brazil
-pkg = http://www2.itti.ifce.edu.br/sabayon/community/kde-unstable
-
-# Yandex Linux Mirror, Russian Federation
-# pkg = ftp://mirror.yandex.ru/sabayon/community/kde-unstable
-# pkg = rsync://mirror.yandex.ru/sabayon/community/kde-unstable
-pkg = http://mirror.yandex.ru/sabayon/community/kde-unstable
-
-# Universidade Federal do Parana', Brazil
-# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/community/kde-unstable
-# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/community/kde-unstable
-pkg = http://sabayon.c3sl.ufpr.br/community/kde-unstable
-
-# University of Maryland LUG, 1Gbit/sec, United States
-# pkg = rsync://mirror.umd.edu/sabayonlinux/community/kde-unstable
-pkg = http://mirror.umd.edu/sabayonlinux/community/kde-unstable
-
-# Open Source Institute, Clarkson University, 300Mbit/sec, United States
-pkg = http://mirror.clarkson.edu/sabayon/community/kde-unstable
-
-# Cross-LFS Project mirror, United States
-pkg = http://cross-lfs.sabayonlinux.org/community/kde-unstable
-
-# GARR Network mirror, Italy
-pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/community/kde-unstable
+pkg = http://best.sabayon.org/sbi/kde-unstable/kde-unstable
+pkg = http://dl.sabayon.org/sbi/kde-unstable/kde-unstable
+pkg = http://pkg.sabayon.org/sbi/kde-unstable/kde-unstable
+pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/kde-unstable/kde-unstable
+pkg = http://www.dyingmuppet.nl/mirror/sbi/kde-unstable/kde-unstable
+pkg = http://mirror.cedia.org.ec/sabayon/sbi/kde-unstable/kde-unstable
+pkg = http://mirror.yandex.ru/sabayon/sbi/kde-unstable/kde-unstable
+pkg = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/kde-unstable/kde-unstable
+pkg = http://mirror.ctrl-c.liu.se/sabayon/sbi/kde-unstable/kde-unstable
+pkg = http://ftp.acc.umu.se/mirror/sabayon.org/sbi/kde-unstable/kde-unstable
+pkg = http://mirror.umd.edu/sabayonlinux/sbi/kde-unstable/kde-unstable
+pkg = http://sabayon.c3sl.ufpr.br/sbi/kde-unstable/kde-unstable
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/kde-unstable/kde-unstable
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/kde-unstable/kde-unstable
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/sbi/kde-unstable/kde-unstable
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/kde-unstable/kde-unstable
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/kde-unstable/kde-unstable
+pkg = http://riksun.riken.go.jp/pub/Linux/sabayon/sbi/kde-unstable/kde-unstable

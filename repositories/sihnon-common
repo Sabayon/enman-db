@@ -1,82 +1,28 @@
+
+# Repository configuration file automatically generated
+# by sabayon-repo-generator script.
+
 [sihnon-common]
-desc = sihnon-common Repository
-enabled = true
+desc = sihnon-common SCR Repository
+enabled =  true
+repo = http://best.sabayon.org//sbi/sihnon-common/sihnon-common#bz2
 
-# Sabayon Packages Continent-based Load Balancer
-repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/sbi/sihnon-common/sihnon-common#bz2
+
+pkg = http://best.sabayon.org/sbi/sihnon-common/sihnon-common
 pkg = http://dl.sabayon.org/sbi/sihnon-common/sihnon-common
-
-# id-REPO, Indonesian FOSS Repository, 100Mbit/sec
-pkg = http://bali.idrepo.or.id/sabayon/sbi/sihnon-common/sihnon-common
-pkg = http://madura.idrepo.or.id/sabayon/sbi/sihnon-common/sihnon-common
-pkg = http://sumbawa.idrepo.or.id/sabayon/sbi/sihnon-common/sihnon-common
-
-# RIKEN Nishina Center for research support, Japan, 1Gbit/sec
-pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/sbi/sihnon-common/sihnon-common
-
-# Yamagata University, Japan, 1Gbit/sec
-pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/sbi/sihnon-common/sihnon-common
-
-# KDDI R&D Laboratories Inc., Japan, 200Mbit/sec
-pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/sihnon-common/sihnon-common
-
-# Silicon Hill (http://www.sh.cvut.cz), 1Gbit/sec, Czech Republic
-pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/sbi/sihnon-common/sihnon-common
-
-# UPC Česká republika, a.s., 2Gbit/sec, Czech Republic
-pkg = http://debian.mirror.dkm.cz/sabayon/sbi/sihnon-common/sihnon-common
-
-# KLID, Denmark, 1Gbit/sec
-pkg = ftp://ftp.klid.dk/sabayonlinux/sbi/sihnon-common/sihnon-common
-
-# Free Software Network, Hungary, 1Gbit/sec
-pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/sihnon-common/sihnon-common
-# pkg = rsync://ftp.fsn.hu/linux/sabayon/sbi/sihnon-common/sihnon-common
-# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/sihnon-common/sihnon-common
-
-# University of Crete, 1Gbit/sec, Greece
-pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/sbi/sihnon-common/sihnon-common
-
-# Rede das Novas Licenciaturas - Instituto Superior Técnico, 1Gbit/sec, Portugal
-pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/sihnon-common/sihnon-common
-# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/sihnon-common/sihnon-common
-
-# Freelydifferent.com, France
-pkg = http://mirror.freelydifferent.com/sabayon/sbi/sihnon-common/sihnon-common
-
-# NLUUG, Holland
+pkg = http://pkg.sabayon.org/sbi/sihnon-common/sihnon-common
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/sihnon-common/sihnon-common
-# pkg = rsync://ftp.nluug.nl/sabayonlinux/sbi/sihnon-common/sihnon-common
-
-# Surfnet, Holland
-pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/sbi/sihnon-common/sihnon-common
-# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/sbi/sihnon-common/sihnon-common
-
-# Internode, Australia
-pkg = http://mirror.internode.on.net/pub/sabayon/sbi/sihnon-common/sihnon-common
-
-# Instituto Federal de Educação, Ciência e Tecnologia do Cearà, Brazil
-pkg = http://www2.itti.ifce.edu.br/sabayon/sbi/sihnon-common/sihnon-common
-
-# Yandex Linux Mirror, Russian Federation
-# pkg = ftp://mirror.yandex.ru/sabayon/sbi/sihnon-common/sihnon-common
-# pkg = rsync://mirror.yandex.ru/sabayon/sbi/sihnon-common/sihnon-common
+pkg = http://www.dyingmuppet.nl/mirror/sbi/sihnon-common/sihnon-common
+pkg = http://mirror.cedia.org.ec/sabayon/sbi/sihnon-common/sihnon-common
 pkg = http://mirror.yandex.ru/sabayon/sbi/sihnon-common/sihnon-common
-
-# Universidade Federal do Parana', Brazil
-# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/sbi/sihnon-common/sihnon-common
-# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/sbi/sihnon-common/sihnon-common
-pkg = http://sabayon.c3sl.ufpr.br/sbi/sihnon-common/sihnon-common
-
-# University of Maryland LUG, 1Gbit/sec, United States
-# pkg = rsync://mirror.umd.edu/sabayonlinux/sbi/sihnon-common/sihnon-common
+pkg = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/sihnon-common/sihnon-common
+pkg = http://mirror.ctrl-c.liu.se/sabayon/sbi/sihnon-common/sihnon-common
+pkg = http://ftp.acc.umu.se/mirror/sabayon.org/sbi/sihnon-common/sihnon-common
 pkg = http://mirror.umd.edu/sabayonlinux/sbi/sihnon-common/sihnon-common
-
-# Open Source Institute, Clarkson University, 300Mbit/sec, United States
-pkg = http://mirror.clarkson.edu/sabayon/sbi/sihnon-common/sihnon-common
-
-# Cross-LFS Project mirror, United States
-pkg = http://cross-lfs.sabayonlinux.org/sbi/sihnon-common/sihnon-common
-
-# GARR Network mirror, Italy
-pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/sbi/sihnon-common/sihnon-common
+pkg = http://sabayon.c3sl.ufpr.br/sbi/sihnon-common/sihnon-common
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/sihnon-common/sihnon-common
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/sihnon-common/sihnon-common
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/sbi/sihnon-common/sihnon-common
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/sihnon-common/sihnon-common
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/sihnon-common/sihnon-common
+pkg = http://riksun.riken.go.jp/pub/Linux/sabayon/sbi/sihnon-common/sihnon-common

@@ -1,82 +1,28 @@
+
+# Repository configuration file automatically generated
+# by sabayon-repo-generator script.
+
 [mudler]
-desc = mudler Repository
-enabled = true
+desc = mudler SCR Repository
+enabled =  true
+repo = http://best.sabayon.org//sbi/mudler/mudler#bz2
 
-# Sabayon Packages Continent-based Load Balancer
-repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/sbi/mudler/mudler#bz2
+
+pkg = http://best.sabayon.org/sbi/mudler/mudler
 pkg = http://dl.sabayon.org/sbi/mudler/mudler
-
-# id-REPO, Indonesian FOSS Repository, 100Mbit/sec
-pkg = http://bali.idrepo.or.id/sabayon/sbi/mudler/mudler
-pkg = http://madura.idrepo.or.id/sabayon/sbi/mudler/mudler
-pkg = http://sumbawa.idrepo.or.id/sabayon/sbi/mudler/mudler
-
-# RIKEN Nishina Center for research support, Japan, 1Gbit/sec
-pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/sbi/mudler/mudler
-
-# Yamagata University, Japan, 1Gbit/sec
-pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/sbi/mudler/mudler
-
-# KDDI R&D Laboratories Inc., Japan, 200Mbit/sec
-pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/mudler/mudler
-
-# Silicon Hill (http://www.sh.cvut.cz), 1Gbit/sec, Czech Republic
-pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/sbi/mudler/mudler
-
-# UPC Česká republika, a.s., 2Gbit/sec, Czech Republic
-pkg = http://debian.mirror.dkm.cz/sabayon/sbi/mudler/mudler
-
-# KLID, Denmark, 1Gbit/sec
-pkg = ftp://ftp.klid.dk/sabayonlinux/sbi/mudler/mudler
-
-# Free Software Network, Hungary, 1Gbit/sec
-pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/mudler/mudler
-# pkg = rsync://ftp.fsn.hu/linux/sabayon/sbi/mudler/mudler
-# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/mudler/mudler
-
-# University of Crete, 1Gbit/sec, Greece
-pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/sbi/mudler/mudler
-
-# Rede das Novas Licenciaturas - Instituto Superior Técnico, 1Gbit/sec, Portugal
-pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/mudler/mudler
-# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/mudler/mudler
-
-# Freelydifferent.com, France
-pkg = http://mirror.freelydifferent.com/sabayon/sbi/mudler/mudler
-
-# NLUUG, Holland
+pkg = http://pkg.sabayon.org/sbi/mudler/mudler
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/mudler/mudler
-# pkg = rsync://ftp.nluug.nl/sabayonlinux/sbi/mudler/mudler
-
-# Surfnet, Holland
-pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/sbi/mudler/mudler
-# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/sbi/mudler/mudler
-
-# Internode, Australia
-pkg = http://mirror.internode.on.net/pub/sabayon/sbi/mudler/mudler
-
-# Instituto Federal de Educação, Ciência e Tecnologia do Cearà, Brazil
-pkg = http://www2.itti.ifce.edu.br/sabayon/sbi/mudler/mudler
-
-# Yandex Linux Mirror, Russian Federation
-# pkg = ftp://mirror.yandex.ru/sabayon/sbi/mudler/mudler
-# pkg = rsync://mirror.yandex.ru/sabayon/sbi/mudler/mudler
+pkg = http://www.dyingmuppet.nl/mirror/sbi/mudler/mudler
+pkg = http://mirror.cedia.org.ec/sabayon/sbi/mudler/mudler
 pkg = http://mirror.yandex.ru/sabayon/sbi/mudler/mudler
-
-# Universidade Federal do Parana', Brazil
-# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/sbi/mudler/mudler
-# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/sbi/mudler/mudler
-pkg = http://sabayon.c3sl.ufpr.br/sbi/mudler/mudler
-
-# University of Maryland LUG, 1Gbit/sec, United States
-# pkg = rsync://mirror.umd.edu/sabayonlinux/sbi/mudler/mudler
+pkg = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/mudler/mudler
+pkg = http://mirror.ctrl-c.liu.se/sabayon/sbi/mudler/mudler
+pkg = http://ftp.acc.umu.se/mirror/sabayon.org/sbi/mudler/mudler
 pkg = http://mirror.umd.edu/sabayonlinux/sbi/mudler/mudler
-
-# Open Source Institute, Clarkson University, 300Mbit/sec, United States
-pkg = http://mirror.clarkson.edu/sabayon/sbi/mudler/mudler
-
-# Cross-LFS Project mirror, United States
-pkg = http://cross-lfs.sabayonlinux.org/sbi/mudler/mudler
-
-# GARR Network mirror, Italy
-pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/sbi/mudler/mudler
+pkg = http://sabayon.c3sl.ufpr.br/sbi/mudler/mudler
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/mudler/mudler
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/mudler/mudler
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/sbi/mudler/mudler
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/mudler/mudler
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/mudler/mudler
+pkg = http://riksun.riken.go.jp/pub/Linux/sabayon/sbi/mudler/mudler

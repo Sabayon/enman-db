@@ -1,83 +1,28 @@
+
+# Repository configuration file automatically generated
+# by sabayon-repo-generator script.
+
 [sihnon-server]
-desc = sihnon-server Repository
-enabled = true
+desc = sihnon-server SCR Repository
+enabled =  true
+repo = http://best.sabayon.org//sbi/sihnon-server/sihnon-server#bz2
 
-# Sabayon Packages Continent-based Load Balancer
-repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/sbi/sihnon-server/sihnon-server#bz2
+
+pkg = http://best.sabayon.org/sbi/sihnon-server/sihnon-server
 pkg = http://dl.sabayon.org/sbi/sihnon-server/sihnon-server
-
-# id-REPO, Indonesian FOSS Repository, 100Mbit/sec
-pkg = http://bali.idrepo.or.id/sabayon/sbi/sihnon-server/sihnon-server
-pkg = http://madura.idrepo.or.id/sabayon/sbi/sihnon-server/sihnon-server
-pkg = http://sumbawa.idrepo.or.id/sabayon/sbi/sihnon-server/sihnon-server
-
-# RIKEN Nishina Center for research support, Japan, 1Gbit/sec
-pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/sbi/sihnon-server/sihnon-server
-
-# Yamagata University, Japan, 1Gbit/sec
-pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/sbi/sihnon-server/sihnon-server
-
-# KDDI R&D Laboratories Inc., Japan, 200Mbit/sec
-pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/sihnon-server/sihnon-server
-
-# Silicon Hill (http://www.sh.cvut.cz), 1Gbit/sec, Czech Republic
-pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/sbi/sihnon-server/sihnon-server
-
-# UPC Česká republika, a.s., 2Gbit/sec, Czech Republic
-pkg = http://debian.mirror.dkm.cz/sabayon/sbi/sihnon-server/sihnon-server
-
-# KLID, Denmark, 1Gbit/sec
-pkg = ftp://ftp.klid.dk/sabayonlinux/sbi/sihnon-server/sihnon-server
-
-# Free Software Network, Hungary, 1Gbit/sec
-pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/sihnon-server/sihnon-server
-# pkg = rsync://ftp.fsn.hu/linux/sabayon/sbi/sihnon-server/sihnon-server
-# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/sihnon-server/sihnon-server
-
-# University of Crete, 1Gbit/sec, Greece
-pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/sbi/sihnon-server/sihnon-server
-
-# Rede das Novas Licenciaturas - Instituto Superior Técnico, 1Gbit/sec, Portugal
-pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/sihnon-server/sihnon-server
-# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/sihnon-server/sihnon-server
-
-# Freelydifferent.com, France
-pkg = http://mirror.freelydifferent.com/sabayon/sbi/sihnon-server/sihnon-server
-
-# NLUUG, Holland
+pkg = http://pkg.sabayon.org/sbi/sihnon-server/sihnon-server
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/sihnon-server/sihnon-server
-# pkg = rsync://ftp.nluug.nl/sabayonlinux/sbi/sihnon-server/sihnon-server
-
-# Surfnet, Holland
-pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/sbi/sihnon-server/sihnon-server
-# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/sbi/sihnon-server/sihnon-server
-
-# Internode, Australia
-pkg = http://mirror.internode.on.net/pub/sabayon/sbi/sihnon-server/sihnon-server
-
-# Instituto Federal de Educação, Ciência e Tecnologia do Cearà, Brazil
-pkg = http://www2.itti.ifce.edu.br/sabayon/sbi/sihnon-server/sihnon-server
-
-# Yandex Linux Mirror, Russian Federation
-# pkg = ftp://mirror.yandex.ru/sabayon/sbi/sihnon-server/sihnon-server
-# pkg = rsync://mirror.yandex.ru/sabayon/sbi/sihnon-server/sihnon-server
+pkg = http://www.dyingmuppet.nl/mirror/sbi/sihnon-server/sihnon-server
+pkg = http://mirror.cedia.org.ec/sabayon/sbi/sihnon-server/sihnon-server
 pkg = http://mirror.yandex.ru/sabayon/sbi/sihnon-server/sihnon-server
-
-# Universidade Federal do Parana', Brazil
-# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/sbi/sihnon-server/sihnon-server
-# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/sbi/sihnon-server/sihnon-server
-pkg = http://sabayon.c3sl.ufpr.br/sbi/sihnon-server/sihnon-server
-
-# University of Maryland LUG, 1Gbit/sec, United States
-# pkg = rsync://mirror.umd.edu/sabayonlinux/sbi/sihnon-server/sihnon-server
+pkg = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/sihnon-server/sihnon-server
+pkg = http://mirror.ctrl-c.liu.se/sabayon/sbi/sihnon-server/sihnon-server
+pkg = http://ftp.acc.umu.se/mirror/sabayon.org/sbi/sihnon-server/sihnon-server
 pkg = http://mirror.umd.edu/sabayonlinux/sbi/sihnon-server/sihnon-server
-
-# Open Source Institute, Clarkson University, 300Mbit/sec, United States
-pkg = http://mirror.clarkson.edu/sabayon/sbi/sihnon-server/sihnon-server
-
-# Cross-LFS Project mirror, United States
-pkg = http://cross-lfs.sabayonlinux.org/sbi/sihnon-server/sihnon-server
-
-# GARR Network mirror, Italy
-pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/sbi/sihnon-server/sihnon-server
-
+pkg = http://sabayon.c3sl.ufpr.br/sbi/sihnon-server/sihnon-server
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/sihnon-server/sihnon-server
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/sihnon-server/sihnon-server
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/sbi/sihnon-server/sihnon-server
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/sihnon-server/sihnon-server
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/sihnon-server/sihnon-server
+pkg = http://riksun.riken.go.jp/pub/Linux/sabayon/sbi/sihnon-server/sihnon-server

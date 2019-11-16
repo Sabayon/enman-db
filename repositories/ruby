@@ -1,82 +1,28 @@
+
+# Repository configuration file automatically generated
+# by sabayon-repo-generator script.
+
 [ruby]
-desc = Ruby packages (unstable)
-enabled = true
+desc = ruby SCR Repository
+enabled =  true
+repo = http://best.sabayon.org//sbi/ruby/ruby#bz2
 
-# Sabayon Packages Continent-based Load Balancer
-repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/community/ruby#bz2
-pkg = http://dl.sabayon.org/community/ruby
 
-# id-REPO, Indonesian FOSS Repository, 100Mbit/sec
-pkg = http://bali.idrepo.or.id/sabayon/community/ruby
-pkg = http://madura.idrepo.or.id/sabayon/community/ruby
-pkg = http://sumbawa.idrepo.or.id/sabayon/community/ruby
-
-# RIKEN Nishina Center for research support, Japan, 1Gbit/sec
-pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/community/ruby
-
-# Yamagata University, Japan, 1Gbit/sec
-pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/community/ruby
-
-# KDDI R&D Laboratories Inc., Japan, 200Mbit/sec
-pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/community/ruby
-
-# Silicon Hill (http://www.sh.cvut.cz), 1Gbit/sec, Czech Republic
-pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/community/ruby
-
-# UPC Česká republika, a.s., 2Gbit/sec, Czech Republic
-pkg = http://debian.mirror.dkm.cz/sabayon/community/ruby
-
-# KLID, Denmark, 1Gbit/sec
-pkg = ftp://ftp.klid.dk/sabayonlinux/community/ruby
-
-# Free Software Network, Hungary, 1Gbit/sec
-pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/community/ruby
-# pkg = rsync://ftp.fsn.hu/linux/sabayon/community/ruby
-# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/community/ruby
-
-# University of Crete, 1Gbit/sec, Greece
-pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/community/ruby
-
-# Rede das Novas Licenciaturas - Instituto Superior Técnico, 1Gbit/sec, Portugal
-pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/community/ruby
-# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/community/ruby
-
-# Freelydifferent.com, France
-pkg = http://mirror.freelydifferent.com/sabayon/community/ruby
-
-# NLUUG, Holland
-pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/community/ruby
-# pkg = rsync://ftp.nluug.nl/sabayonlinux/community/ruby
-
-# Surfnet, Holland
-pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/community/ruby
-# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/community/ruby
-
-# Internode, Australia
-pkg = http://mirror.internode.on.net/pub/sabayon/community/ruby
-
-# Instituto Federal de Educação, Ciência e Tecnologia do Cearà, Brazil
-pkg = http://www2.itti.ifce.edu.br/sabayon/community/ruby
-
-# Yandex Linux Mirror, Russian Federation
-# pkg = ftp://mirror.yandex.ru/sabayon/community/ruby
-# pkg = rsync://mirror.yandex.ru/sabayon/community/ruby
-pkg = http://mirror.yandex.ru/sabayon/community/ruby
-
-# Universidade Federal do Parana', Brazil
-# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/community/ruby
-# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/community/ruby
-pkg = http://sabayon.c3sl.ufpr.br/community/ruby
-
-# University of Maryland LUG, 1Gbit/sec, United States
-# pkg = rsync://mirror.umd.edu/sabayonlinux/community/ruby
-pkg = http://mirror.umd.edu/sabayonlinux/community/ruby
-
-# Open Source Institute, Clarkson University, 300Mbit/sec, United States
-pkg = http://mirror.clarkson.edu/sabayon/community/ruby
-
-# Cross-LFS Project mirror, United States
-pkg = http://cross-lfs.sabayonlinux.org/community/ruby
-
-# GARR Network mirror, Italy
-pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/community/ruby
+pkg = http://best.sabayon.org/sbi/ruby/ruby
+pkg = http://dl.sabayon.org/sbi/ruby/ruby
+pkg = http://pkg.sabayon.org/sbi/ruby/ruby
+pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/ruby/ruby
+pkg = http://www.dyingmuppet.nl/mirror/sbi/ruby/ruby
+pkg = http://mirror.cedia.org.ec/sabayon/sbi/ruby/ruby
+pkg = http://mirror.yandex.ru/sabayon/sbi/ruby/ruby
+pkg = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/ruby/ruby
+pkg = http://mirror.ctrl-c.liu.se/sabayon/sbi/ruby/ruby
+pkg = http://ftp.acc.umu.se/mirror/sabayon.org/sbi/ruby/ruby
+pkg = http://mirror.umd.edu/sabayonlinux/sbi/ruby/ruby
+pkg = http://sabayon.c3sl.ufpr.br/sbi/ruby/ruby
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/ruby/ruby
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/ruby/ruby
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/sbi/ruby/ruby
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/ruby/ruby
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/ruby/ruby
+pkg = http://riksun.riken.go.jp/pub/Linux/sabayon/sbi/ruby/ruby

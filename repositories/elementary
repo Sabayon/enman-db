@@ -1,82 +1,28 @@
+
+# Repository configuration file automatically generated
+# by sabayon-repo-generator script.
+
 [elementary]
-desc = Elementary repository
-enabled = true
+desc = elementary SCR Repository
+enabled =  true
+repo = http://best.sabayon.org//sbi/elementary/elementary#bz2
 
-# Sabayon Packages Continent-based Load Balancer
-repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/community/elementary#bz2
-pkg = http://dl.sabayon.org/community/elementary
 
-# id-REPO, Indonesian FOSS Repository, 100Mbit/sec
-pkg = http://bali.idrepo.or.id/sabayon/community/elementary
-pkg = http://madura.idrepo.or.id/sabayon/community/elementary
-pkg = http://sumbawa.idrepo.or.id/sabayon/community/elementary
-
-# RIKEN Nishina Center for research support, Japan, 1Gbit/sec
-pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/community/elementary
-
-# Yamagata University, Japan, 1Gbit/sec
-pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/community/elementary
-
-# KDDI R&D Laboratories Inc., Japan, 200Mbit/sec
-pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/community/elementary
-
-# Silicon Hill (http://www.sh.cvut.cz), 1Gbit/sec, Czech Republic
-pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/community/elementary
-
-# UPC Česká republika, a.s., 2Gbit/sec, Czech Republic
-pkg = http://debian.mirror.dkm.cz/sabayon/community/elementary
-
-# KLID, Denmark, 1Gbit/sec
-pkg = ftp://ftp.klid.dk/sabayonlinux/community/elementary
-
-# Free Software Network, Hungary, 1Gbit/sec
-pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/community/elementary
-# pkg = rsync://ftp.fsn.hu/linux/sabayon/community/elementary
-# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/community/elementary
-
-# University of Crete, 1Gbit/sec, Greece
-pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/community/elementary
-
-# Rede das Novas Licenciaturas - Instituto Superior Técnico, 1Gbit/sec, Portugal
-pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/community/elementary
-# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/community/elementary
-
-# Freelydifferent.com, France
-pkg = http://mirror.freelydifferent.com/sabayon/community/elementary
-
-# NLUUG, Holland
-pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/community/elementary
-# pkg = rsync://ftp.nluug.nl/sabayonlinux/community/elementary
-
-# Surfnet, Holland
-pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/community/elementary
-# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/community/elementary
-
-# Internode, Australia
-pkg = http://mirror.internode.on.net/pub/sabayon/community/elementary
-
-# Instituto Federal de Educação, Ciência e Tecnologia do Cearà, Brazil
-pkg = http://www2.itti.ifce.edu.br/sabayon/community/elementary
-
-# Yandex Linux Mirror, Russian Federation
-# pkg = ftp://mirror.yandex.ru/sabayon/community/elementary
-# pkg = rsync://mirror.yandex.ru/sabayon/community/elementary
-pkg = http://mirror.yandex.ru/sabayon/community/elementary
-
-# Universidade Federal do Parana', Brazil
-# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/community/elementary
-# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/community/elementary
-pkg = http://sabayon.c3sl.ufpr.br/community/elementary
-
-# University of Maryland LUG, 1Gbit/sec, United States
-# pkg = rsync://mirror.umd.edu/sabayonlinux/community/elementary
-pkg = http://mirror.umd.edu/sabayonlinux/community/elementary
-
-# Open Source Institute, Clarkson University, 300Mbit/sec, United States
-pkg = http://mirror.clarkson.edu/sabayon/community/elementary
-
-# Cross-LFS Project mirror, United States
-pkg = http://cross-lfs.sabayonlinux.org/community/elementary
-
-# GARR Network mirror, Italy
-pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/community/elementary
+pkg = http://best.sabayon.org/sbi/elementary/elementary
+pkg = http://dl.sabayon.org/sbi/elementary/elementary
+pkg = http://pkg.sabayon.org/sbi/elementary/elementary
+pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/elementary/elementary
+pkg = http://www.dyingmuppet.nl/mirror/sbi/elementary/elementary
+pkg = http://mirror.cedia.org.ec/sabayon/sbi/elementary/elementary
+pkg = http://mirror.yandex.ru/sabayon/sbi/elementary/elementary
+pkg = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/elementary/elementary
+pkg = http://mirror.ctrl-c.liu.se/sabayon/sbi/elementary/elementary
+pkg = http://ftp.acc.umu.se/mirror/sabayon.org/sbi/elementary/elementary
+pkg = http://mirror.umd.edu/sabayonlinux/sbi/elementary/elementary
+pkg = http://sabayon.c3sl.ufpr.br/sbi/elementary/elementary
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/elementary/elementary
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/elementary/elementary
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/sbi/elementary/elementary
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/elementary/elementary
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/elementary/elementary
+pkg = http://riksun.riken.go.jp/pub/Linux/sabayon/sbi/elementary/elementary
