@@ -1,0 +1,28 @@
+
+# Repository configuration file automatically generated
+# by sabayon-repo-generator script.
+
+[geaaru]
+desc = geaaru SCR Repository
+enabled =  true
+repo = http://best.sabayon.org//sbi/geaaru/geaaru#bz2
+
+
+pkg = http://best.sabayon.org/sbi/geaaru/geaaru
+pkg = http://dl.sabayon.org/sbi/geaaru/geaaru
+pkg = http://pkg.sabayon.org/sbi/geaaru/geaaru
+pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/geaaru/geaaru
+pkg = http://www.dyingmuppet.nl/mirror/sbi/geaaru/geaaru
+pkg = http://mirror.cedia.org.ec/sabayon/sbi/geaaru/geaaru
+pkg = http://mirror.yandex.ru/sabayon/sbi/geaaru/geaaru
+pkg = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/geaaru/geaaru
+pkg = http://mirror.ctrl-c.liu.se/sabayon/sbi/geaaru/geaaru
+pkg = http://ftp.acc.umu.se/mirror/sabayon.org/sbi/geaaru/geaaru
+pkg = http://mirror.umd.edu/sabayonlinux/sbi/geaaru/geaaru
+pkg = http://sabayon.c3sl.ufpr.br/sbi/geaaru/geaaru
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/geaaru/geaaru
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/geaaru/geaaru
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/sbi/geaaru/geaaru
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/geaaru/geaaru
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/geaaru/geaaru
+pkg = http://riksun.riken.go.jp/pub/Linux/sabayon/sbi/geaaru/geaaru

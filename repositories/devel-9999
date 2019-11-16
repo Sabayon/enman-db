@@ -1,0 +1,28 @@
+
+# Repository configuration file automatically generated
+# by sabayon-repo-generator script.
+
+[devel-9999]
+desc = devel-9999 SCR Repository
+enabled =  true
+repo = http://best.sabayon.org//sbi/devel-9999/devel-9999#bz2
+
+
+pkg = http://best.sabayon.org/sbi/devel-9999/devel-9999
+pkg = http://dl.sabayon.org/sbi/devel-9999/devel-9999
+pkg = http://pkg.sabayon.org/sbi/devel-9999/devel-9999
+pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/devel-9999/devel-9999
+pkg = http://www.dyingmuppet.nl/mirror/sbi/devel-9999/devel-9999
+pkg = http://mirror.cedia.org.ec/sabayon/sbi/devel-9999/devel-9999
+pkg = http://mirror.yandex.ru/sabayon/sbi/devel-9999/devel-9999
+pkg = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/devel-9999/devel-9999
+pkg = http://mirror.ctrl-c.liu.se/sabayon/sbi/devel-9999/devel-9999
+pkg = http://ftp.acc.umu.se/mirror/sabayon.org/sbi/devel-9999/devel-9999
+pkg = http://mirror.umd.edu/sabayonlinux/sbi/devel-9999/devel-9999
+pkg = http://sabayon.c3sl.ufpr.br/sbi/devel-9999/devel-9999
+pkg = http://mirror.internode.on.net/pub/sabayon/sbi/devel-9999/devel-9999
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/sbi/devel-9999/devel-9999
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/sbi/devel-9999/devel-9999
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/sbi/devel-9999/devel-9999
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/sbi/devel-9999/devel-9999
+pkg = http://riksun.riken.go.jp/pub/Linux/sabayon/sbi/devel-9999/devel-9999

@@ -3,8 +3,10 @@ sihnon-desktop:https://github.com/Sabayon/enman-db/raw/master/repositories/sihno
 sihnon-common:https://github.com/Sabayon/enman-db/raw/master/repositories/sihnon-common
 sihnon-server:https://github.com/Sabayon/enman-db/raw/master/repositories/sihnon-server
 gaming-live:https://github.com/Sabayon/enman-db/raw/master/repositories/gaming-live
+geaaru:https://github.com/Sabayon/enman-db/raw/master/repositories/geaaru
 mudler:https://github.com/Sabayon/enman-db/raw/master/repositories/mudler
 devel:https://github.com/Sabayon/enman-db/raw/master/repositories/devel
+devel-9999:https://github.com/Sabayon/enman-db/raw/master/repositories/devel-9999
 pentesting:https://github.com/Sabayon/enman-db/raw/master/repositories/pentesting
 gnome-unstable:https://github.com/Sabayon/enman-db/raw/master/repositories/gnome-unstable
 kdepim:https://github.com/Sabayon/enman-db/raw/master/repositories/kdepim
