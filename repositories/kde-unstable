@@ -5,10 +5,9 @@
 [kde-unstable]
 desc = kde-unstable SCR Repository
 enabled =  true
-repo = http://best.sabayon.org//sbi/kde-unstable/kde-unstable#bz2
+repo = http://dl.sabayon.org//sbi/kde-unstable/kde-unstable#bz2
 
 
-pkg = http://best.sabayon.org/sbi/kde-unstable/kde-unstable
 pkg = http://dl.sabayon.org/sbi/kde-unstable/kde-unstable
 pkg = http://pkg.sabayon.org/sbi/kde-unstable/kde-unstable
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/kde-unstable/kde-unstable

@@ -5,10 +5,9 @@
 [mudler]
 desc = mudler SCR Repository
 enabled =  true
-repo = http://best.sabayon.org//sbi/mudler/mudler#bz2
+repo = http://dl.sabayon.org//sbi/mudler/mudler#bz2
 
 
-pkg = http://best.sabayon.org/sbi/mudler/mudler
 pkg = http://dl.sabayon.org/sbi/mudler/mudler
 pkg = http://pkg.sabayon.org/sbi/mudler/mudler
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/mudler/mudler

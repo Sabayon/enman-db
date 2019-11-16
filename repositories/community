@@ -5,10 +5,9 @@
 [community]
 desc = community SCR Repository
 enabled =  true
-repo = http://best.sabayon.org//sbi/community/community#bz2
+repo = http://dl.sabayon.org//sbi/community/community#bz2
 
 
-pkg = http://best.sabayon.org/sbi/community/community
 pkg = http://dl.sabayon.org/sbi/community/community
 pkg = http://pkg.sabayon.org/sbi/community/community
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/community/community

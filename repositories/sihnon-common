@@ -5,10 +5,9 @@
 [sihnon-common]
 desc = sihnon-common SCR Repository
 enabled =  true
-repo = http://best.sabayon.org//sbi/sihnon-common/sihnon-common#bz2
+repo = http://dl.sabayon.org//sbi/sihnon-common/sihnon-common#bz2
 
 
-pkg = http://best.sabayon.org/sbi/sihnon-common/sihnon-common
 pkg = http://dl.sabayon.org/sbi/sihnon-common/sihnon-common
 pkg = http://pkg.sabayon.org/sbi/sihnon-common/sihnon-common
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/sihnon-common/sihnon-common

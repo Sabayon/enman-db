@@ -5,10 +5,9 @@
 [rust]
 desc = rust SCR Repository
 enabled =  true
-repo = http://best.sabayon.org//sbi/rust/rust#bz2
+repo = http://dl.sabayon.org//sbi/rust/rust#bz2
 
 
-pkg = http://best.sabayon.org/sbi/rust/rust
 pkg = http://dl.sabayon.org/sbi/rust/rust
 pkg = http://pkg.sabayon.org/sbi/rust/rust
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/rust/rust

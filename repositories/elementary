@@ -5,10 +5,9 @@
 [elementary]
 desc = elementary SCR Repository
 enabled =  true
-repo = http://best.sabayon.org//sbi/elementary/elementary#bz2
+repo = http://dl.sabayon.org//sbi/elementary/elementary#bz2
 
 
-pkg = http://best.sabayon.org/sbi/elementary/elementary
 pkg = http://dl.sabayon.org/sbi/elementary/elementary
 pkg = http://pkg.sabayon.org/sbi/elementary/elementary
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/elementary/elementary

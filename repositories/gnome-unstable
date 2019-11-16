@@ -5,10 +5,9 @@
 [gnome-unstable]
 desc = gnome-unstable SCR Repository
 enabled =  true
-repo = http://best.sabayon.org//sbi/gnome-unstable/gnome-unstable#bz2
+repo = http://dl.sabayon.org//sbi/gnome-unstable/gnome-unstable#bz2
 
 
-pkg = http://best.sabayon.org/sbi/gnome-unstable/gnome-unstable
 pkg = http://dl.sabayon.org/sbi/gnome-unstable/gnome-unstable
 pkg = http://pkg.sabayon.org/sbi/gnome-unstable/gnome-unstable
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/gnome-unstable/gnome-unstable

@@ -5,10 +5,9 @@
 [sihnon-server]
 desc = sihnon-server SCR Repository
 enabled =  true
-repo = http://best.sabayon.org//sbi/sihnon-server/sihnon-server#bz2
+repo = http://dl.sabayon.org//sbi/sihnon-server/sihnon-server#bz2
 
 
-pkg = http://best.sabayon.org/sbi/sihnon-server/sihnon-server
 pkg = http://dl.sabayon.org/sbi/sihnon-server/sihnon-server
 pkg = http://pkg.sabayon.org/sbi/sihnon-server/sihnon-server
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/sihnon-server/sihnon-server
