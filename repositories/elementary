@@ -5,7 +5,7 @@
 [elementary]
 desc = elementary SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org//sbi/elementary/elementary#bz2
+repo = http://dl.sabayon.org/sbi/elementary/elementary#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/elementary/elementary

@@ -5,7 +5,7 @@
 [gaming-live]
 desc = gaming-live SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org//sbi/gaming-live/gaming-live#bz2
+repo = http://dl.sabayon.org/sbi/gaming-live/gaming-live#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/gaming-live/gaming-live

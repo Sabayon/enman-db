@@ -5,7 +5,7 @@
 [devel-9999]
 desc = devel-9999 SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org//sbi/devel-9999/devel-9999#bz2
+repo = http://dl.sabayon.org/sbi/devel-9999/devel-9999#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/devel-9999/devel-9999

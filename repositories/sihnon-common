@@ -5,7 +5,7 @@
 [sihnon-common]
 desc = sihnon-common SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org//sbi/sihnon-common/sihnon-common#bz2
+repo = http://dl.sabayon.org/sbi/sihnon-common/sihnon-common#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/sihnon-common/sihnon-common

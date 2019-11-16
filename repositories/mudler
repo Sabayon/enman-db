@@ -5,7 +5,7 @@
 [mudler]
 desc = mudler SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org//sbi/mudler/mudler#bz2
+repo = http://dl.sabayon.org/sbi/mudler/mudler#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/mudler/mudler
