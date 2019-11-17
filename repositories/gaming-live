@@ -5,11 +5,10 @@
 [gaming-live]
 desc = gaming-live SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org/sbi/gaming-live/gaming-live#bz2
+repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/gaming-live/gaming-live#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/gaming-live/gaming-live
-pkg = http://pkg.sabayon.org/sbi/gaming-live/gaming-live
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/gaming-live/gaming-live
 pkg = http://www.dyingmuppet.nl/mirror/sbi/gaming-live/gaming-live
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/gaming-live/gaming-live

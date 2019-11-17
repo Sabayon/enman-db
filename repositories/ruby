@@ -5,11 +5,10 @@
 [ruby]
 desc = ruby SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org/sbi/ruby/ruby#bz2
+repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/ruby/ruby#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/ruby/ruby
-pkg = http://pkg.sabayon.org/sbi/ruby/ruby
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/ruby/ruby
 pkg = http://www.dyingmuppet.nl/mirror/sbi/ruby/ruby
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/ruby/ruby

@@ -5,11 +5,10 @@
 [sihnon-desktop]
 desc = sihnon-desktop SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org/sbi/sihnon-desktop/sihnon-desktop#bz2
+repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/sihnon-desktop/sihnon-desktop#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/sihnon-desktop/sihnon-desktop
-pkg = http://pkg.sabayon.org/sbi/sihnon-desktop/sihnon-desktop
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/sihnon-desktop/sihnon-desktop
 pkg = http://www.dyingmuppet.nl/mirror/sbi/sihnon-desktop/sihnon-desktop
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/sihnon-desktop/sihnon-desktop

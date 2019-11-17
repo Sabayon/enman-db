@@ -5,11 +5,10 @@
 [haskell]
 desc = haskell SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org/sbi/haskell/haskell#bz2
+repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/haskell/haskell#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/haskell/haskell
-pkg = http://pkg.sabayon.org/sbi/haskell/haskell
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/haskell/haskell
 pkg = http://www.dyingmuppet.nl/mirror/sbi/haskell/haskell
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/haskell/haskell

@@ -5,11 +5,10 @@
 [geaaru]
 desc = geaaru SCR Repository
 enabled =  true
-repo = http://dl.sabayon.org/sbi/geaaru/geaaru#bz2
+repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/geaaru/geaaru#bz2
 
 
 pkg = http://dl.sabayon.org/sbi/geaaru/geaaru
-pkg = http://pkg.sabayon.org/sbi/geaaru/geaaru
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/geaaru/geaaru
 pkg = http://www.dyingmuppet.nl/mirror/sbi/geaaru/geaaru
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/geaaru/geaaru
