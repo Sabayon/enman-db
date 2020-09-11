@@ -5,11 +5,11 @@
 [community]
 desc = community SCR Repository
 enabled =  true
-repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/community/community#bz2
+repo = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/community/community#bz2
 
 
-pkg = http://dl.sabayon.org/sbi/community/community
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/community/community
+pkg = http://dl.sabayon.org/sbi/community/community
 pkg = http://www.dyingmuppet.nl/mirror/sbi/community/community
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/community/community
 pkg = http://mirror.yandex.ru/sabayon/sbi/community/community

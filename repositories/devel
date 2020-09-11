@@ -5,11 +5,11 @@
 [devel]
 desc = devel SCR Repository
 enabled =  true
-repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/devel/devel#bz2
+repo = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/devel/devel#bz2
 
 
-pkg = http://dl.sabayon.org/sbi/devel/devel
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/devel/devel
+pkg = http://dl.sabayon.org/sbi/devel/devel
 pkg = http://www.dyingmuppet.nl/mirror/sbi/devel/devel
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/devel/devel
 pkg = http://mirror.yandex.ru/sabayon/sbi/devel/devel

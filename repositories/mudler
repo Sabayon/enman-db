@@ -6,10 +6,11 @@
 desc = mudler SCR Repository
 enabled =  true
 repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/mudler/mudler#bz2
+repo = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/mudler/mudler#bz2
 
 
-pkg = http://dl.sabayon.org/sbi/mudler/mudler
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/mudler/mudler
+pkg = http://dl.sabayon.org/sbi/mudler/mudler
 pkg = http://www.dyingmuppet.nl/mirror/sbi/mudler/mudler
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/mudler/mudler
 pkg = http://mirror.yandex.ru/sabayon/sbi/mudler/mudler

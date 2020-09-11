@@ -5,11 +5,11 @@
 [dotnet]
 desc = dotnet SCR Repository
 enabled =  true
-repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/dotnet/dotnet#bz2
+repo = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/dotnet/dotnet#bz2
 
 
-pkg = http://dl.sabayon.org/sbi/dotnet/dotnet
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/dotnet/dotnet
+pkg = http://dl.sabayon.org/sbi/dotnet/dotnet
 pkg = http://www.dyingmuppet.nl/mirror/sbi/dotnet/dotnet
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/dotnet/dotnet
 pkg = http://mirror.yandex.ru/sabayon/sbi/dotnet/dotnet

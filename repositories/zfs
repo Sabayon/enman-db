@@ -5,11 +5,11 @@
 [zfs]
 desc = zfs SCR Repository
 enabled =  true
-repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/zfs/zfs#bz2
+repo = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/zfs/zfs#bz2
 
 
-pkg = http://dl.sabayon.org/sbi/zfs/zfs
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/zfs/zfs
+pkg = http://dl.sabayon.org/sbi/zfs/zfs
 pkg = http://www.dyingmuppet.nl/mirror/sbi/zfs/zfs
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/zfs/zfs
 pkg = http://mirror.yandex.ru/sabayon/sbi/zfs/zfs

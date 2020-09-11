@@ -5,11 +5,11 @@
 [devel-9999]
 desc = devel-9999 SCR Repository
 enabled =  true
-repo = http://sabayonlinux.mirror.garr.it/mirrors/sabayonlinux/sbi/devel-9999/devel-9999#bz2
+repo = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/devel-9999/devel-9999#bz2
 
 
-pkg = http://dl.sabayon.org/sbi/devel-9999/devel-9999
 pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/sbi/devel-9999/devel-9999
+pkg = http://dl.sabayon.org/sbi/devel-9999/devel-9999
 pkg = http://www.dyingmuppet.nl/mirror/sbi/devel-9999/devel-9999
 pkg = http://mirror.cedia.org.ec/sabayon/sbi/devel-9999/devel-9999
 pkg = http://mirror.yandex.ru/sabayon/sbi/devel-9999/devel-9999
